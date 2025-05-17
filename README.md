@@ -7,6 +7,7 @@ This repository provides a **standardized folder structure and Stata `.do` files
 ## 🧾 What's Included
 
 📂 Folder Structure:
+
 stata_repo/
 ├── 02_Codes/ # All Stata .do scripts
 │ ├── main.do # Master script to run all steps
@@ -22,7 +23,6 @@ stata_repo/
 │ └── 03_Results/ # Regression outputs
 └── README.md # This guide
 
-
 ---
 
 ## ▶️ How to Use
@@ -30,3 +30,7 @@ stata_repo/
 1. **Clone this repo** or download the zip:
    ```bash
    git clone https://github.com/YOUR_USERNAME/stata-repo-template.git
+
+Just replace `YOUR_USERNAME` with your actual GitHub username if you want.
+
+If you want, I can also help you generate the entire `README.md` file text for you. Would you like that?
